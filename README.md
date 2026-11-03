@@ -1,3 +1,4 @@
+
 # Nymble prototype (MERN)
 
 A working web app that simulates the architecture from the paper *Nymble: Blocking Misbehaving Users in Anonymizing Networks*. Users get a pseudonymous Nymble ID and short-lived tokens, a simulated service checks those tokens, and administrators can blacklist a pseudonym so it is blocked on the very next request.
